@@ -9,6 +9,8 @@ If you own a car in a major city, chances are you've gotten a parking ticket. Th
 
 #### Design
 
+To plot the factors I used Bar Chart since all the factors I want to talk about are categorical data. I used a calendar heat map to illustrate how tickets varies depending on the day of the week, and when I wanted to analyze the data geographically and answer spacial questions I used Mapping
+
 I tried to focus the audience's attention on the insight I want them to act on by maintaining a large data-ink ratio/data Integrity and removing unnecessary items from visuals. I also used color but only when necessary. (The pallets sensitive to those with colorblindness)
 
 #### Feedback
@@ -19,7 +21,6 @@ I tried to focus the audience's attention on the insight I want them to act on b
 - Explain How to use the map and correct some text errors or reformat it
 
 #### Resources
-
 
 - [Spot angels blog](https://www.spotangels.com/blog/)
 - [Parking Violations Issued](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2018/pvqr-7yc4)
