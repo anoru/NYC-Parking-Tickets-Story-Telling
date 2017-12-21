@@ -1,7 +1,6 @@
 ## NYC Parking Tickets Visualization
 
-story_v1 : [NYC Parking Tickets Viz](https://public.tableau.com/profile/anouar.zbaida#!/vizhome/NYCParkingTicketsViz/V1)
-story_final: [NYC Parking Tickets Visualization after feedbacks](https://public.tableau.com/profile/anouar.zbaida#!/vizhome/NYCParkingTicketsVizF/V2)
+The Story: [NYC Parking Tickets Visualization after feedbacks](https://public.tableau.com/profile/anouar.zbaida#!/vizhome/NYCParkingTicketsVizF/V2)
 
 #### Summary
 
